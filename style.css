@@ -1,0 +1,36 @@
+body 
+{
+    background-color: royalblue;
+    text-align: center;
+    color: darksalmon;
+}
+.header_div 
+{
+   font-family: 'Fuzzy Bubbles', cursive;
+   font-size: 20px;
+   font-weight: bold;
+}
+.header_div p 
+{
+    color: rgb(255, 85, 0);
+    letter-spacing: 2px;
+    font-weight: bold;
+}
+.main_div button
+{
+    letter-spacing: 2px;
+    width: 130px; 
+    margin-top: 30px;
+    font-weight: bold;
+}
+.copy_right_footer
+{
+    text-align: center;
+    position: fixed;
+    color: rgb(0, 0, 0);
+    bottom: 0px;
+    font-size: 20px;
+    width: 100%;
+    background-color: rgb(119, 190, 253);
+    text-shadow: 5px 5px 5px black  ;
+}
